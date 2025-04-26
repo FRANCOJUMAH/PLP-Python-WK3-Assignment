@@ -6,4 +6,6 @@
 
 Below is a VScode  screenshot of the function and the output in the terminal : 
 
+_The output shows how a discount is applied to the original price entered by a user_
+
 ![image](https://github.com/user-attachments/assets/f3f18d4c-32db-49f7-b43c-2efac8c37ca1)
